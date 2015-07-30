@@ -5,11 +5,18 @@
             'Ben', 'Thomas', 'Matthew', 
             'Mark', 'Jennifer', 'Cameron']
 
+            
+
+            new_student!
             puts students
 
 
-            puts "enter the nme of student"
+            count 0
+            untile count == student.lenght
+            puts "#{students(count)}, #{{students(count+1)}"
+            count += 2
+        end
 
 
 
-puts" name of students"
+
