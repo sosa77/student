@@ -10,3 +10,6 @@
 
             puts "enter the nme of student"
 
+
+
+puts" name of students"
